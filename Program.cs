@@ -10,7 +10,7 @@ namespace ConsoleApp10
     {
         static void Main(string[] args)
         {
-            //1 сортировка ОМ по адресу
+            //1 сортировка ОМ по адресу 
             int[] nums = {12,-76,-6,-34, 1};
             for (int i = 0; i < nums.Length - 1; i++)
             {
